@@ -48,10 +48,10 @@ I am especially interested in the intersection of **Applied AI, EdTech, research
 ## Selected professional experience
 
 - **Chemistry Educator & International Tutor** — school, Gymnasium, IB Diploma and non-major university chemistry; online and in-person learning contexts.
-- **Teacher in Swiss secondary schools & Gymnasien** — teaching and substitution experience across Chemistry, Natural Sciences and selected general-school subjects, including **Gymnasium Neufeld**.
-- **Chemistry / STEM Teacher — #brobots Private Engineering School, Kyiv** — science education and project-based learning.
-- **Nanomedicine Research — École Centrale de Lyon / Institut Lumière Matière (CNRS)** — nanoparticle bioconjugation and physicochemical characterisation for receptor-targeted oncology applications.
-- **Supramolecular Chemistry Research — Taras Shevchenko National University of Kyiv / Life Chemicals** — calix[6]resorcinarene chemistry, NMR, X-ray structural analysis and computational modelling.
+- **Teacher in Swiss secondary schools & Gymnasien** — teaching and substitution experience across Chemistry, Natural Sciences and selected general-school subjects, including **[Gymnasium Neufeld](https://gymneufeld.ch/)**.
+- **Chemistry / STEM Teacher — [#brobots Private Engineering School, Kyiv](https://brobots.org.ua/)** — science education and project-based learning.
+- **Nanomedicine Research — [École Centrale de Lyon](https://www.ec-lyon.fr/) / [Institut Lumière Matière (iLM)](https://ilm.univ-lyon1.fr/) ([CNRS](https://www.cnrs.fr/en))** — nanoparticle bioconjugation and physicochemical characterisation for receptor-targeted oncology applications.
+- **Supramolecular Chemistry Research — [Institute of High Technologies, Taras Shevchenko National University of Kyiv](https://iht.knu.ua/en/) / [Life Chemicals](https://lifechemicals.com/)** — calix[6]resorcinarene chemistry, NMR, X-ray structural analysis and computational modelling.
 
 ---
 
@@ -59,10 +59,16 @@ I am especially interested in the intersection of **Applied AI, EdTech, research
 
 | Institution | Programme |
 | --- | --- |
-| **PHBern — Pädagogische Hochschule Bern** | Teaching Diploma for Baccalaureate Schools, **Chemistry** — in progress |
-| **École Centrale de Lyon** | MSc in **Nanoscale Engineering** |
-| **Taras Shevchenko National University of Kyiv** | MSc in **Applied Physics & Nanomaterials** |
-| **Taras Shevchenko National University of Kyiv** | BSc in **Chemistry** |
+| **[PHBern — Pädagogische Hochschule Bern](https://www.phbern.ch/studium/sekundarstufe-ii/studienuebersicht/monofachdiplom-fuer-maturitaetsschulen-mit-berufspaedagogischer-qualifikation)** | Teaching Diploma for Baccalaureate Schools with Vocational Education Qualification, **Chemistry** — in progress |
+| **[École Centrale de Lyon](https://www.ec-lyon.fr/formation/international-master-nanoscale-engineering)** | MSc in **Nanoscale Engineering** |
+| **[Institute of High Technologies, Taras Shevchenko National University of Kyiv](https://iht.knu.ua/en/)** | MSc in **Applied Physics & Nanomaterials** |
+| **[Institute of High Technologies, Taras Shevchenko National University of Kyiv](https://iht.knu.ua/en/)** | BSc in **Chemistry (High Technologies)** |
+
+---
+
+## Institutions & affiliations
+
+[PHBern](https://www.phbern.ch/) · [École Centrale de Lyon](https://www.ec-lyon.fr/) · [Taras Shevchenko National University of Kyiv — IHT](https://iht.knu.ua/en/) · [Gymnasium Neufeld](https://gymneufeld.ch/) · [#brobots](https://brobots.org.ua/) · [Institut Lumière Matière](https://ilm.univ-lyon1.fr/) · [CNRS](https://www.cnrs.fr/en) · [Life Chemicals](https://lifechemicals.com/)
 
 ---
 
