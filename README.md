@@ -9,15 +9,23 @@
   <a href="https://ch.linkedin.com/in/shvedvadym"><img src="https://img.shields.io/badge/LinkedIn-Vadym%20Shved-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
+## Currently
+
+<p align="center">
+  🎓 <strong>PHBern Chemistry Teacher Education</strong> · 🤖 <strong>Building Applied AI / EdTech workflows</strong> · 🧪 <strong>Chemistry & Nanoscience background</strong>
+</p>
+
 ---
 
 ## About me
 
 I am a **chemist, chemistry educator and international tutor** with a background in **nanoscience, scientific research and education**. Alongside teaching, I build practical AI-assisted workflows that turn repetitive research, information-management and educational tasks into structured, reusable systems.
 
-My approach to technology is problem-first rather than tool-first:
+### How I work
 
-> **Real problem → structured workflow → automation → AI assistance → useful output**
+> **I start with the domain problem, formalise the workflow, automate repetitive steps, and use AI where it adds measurable value.**
+
+**Real problem → structured workflow → automation → AI assistance → useful output**
 
 I am especially interested in the intersection of **Applied AI, EdTech, research automation and domain expertise**.
 
@@ -68,7 +76,30 @@ I am especially interested in the intersection of **Applied AI, EdTech, research
 
 ## Institutions & affiliations
 
-[PHBern](https://www.phbern.ch/) · [École Centrale de Lyon](https://www.ec-lyon.fr/) · [Taras Shevchenko National University of Kyiv — IHT](https://iht.knu.ua/en/) · [Gymnasium Neufeld](https://gymneufeld.ch/) · [#brobots](https://brobots.org.ua/) · [Institut Lumière Matière](https://ilm.univ-lyon1.fr/) · [CNRS](https://www.cnrs.fr/en) · [Life Chemicals](https://lifechemicals.com/)
+<p>
+  <a href="https://www.phbern.ch/"><img src="https://img.shields.io/badge/PHBern-Education-555?style=flat-square" alt="PHBern"></a>
+  <a href="https://www.ec-lyon.fr/"><img src="https://img.shields.io/badge/École_Centrale_de_Lyon-Nanoscience-555?style=flat-square" alt="École Centrale de Lyon"></a>
+  <a href="https://iht.knu.ua/en/"><img src="https://img.shields.io/badge/KNU_IHT-Chemistry_&_Nanoscience-555?style=flat-square" alt="KNU IHT"></a>
+  <a href="https://www.cnrs.fr/en"><img src="https://img.shields.io/badge/CNRS-Research-555?style=flat-square" alt="CNRS"></a>
+  <a href="https://ilm.univ-lyon1.fr/"><img src="https://img.shields.io/badge/iLM-Nanomedicine-555?style=flat-square" alt="Institut Lumière Matière"></a>
+  <a href="https://brobots.org.ua/"><img src="https://img.shields.io/badge/%23brobots-STEM_Education-555?style=flat-square" alt="#brobots"></a>
+  <a href="https://gymneufeld.ch/"><img src="https://img.shields.io/badge/Gymnasium_Neufeld-Chemistry_Education-555?style=flat-square" alt="Gymnasium Neufeld"></a>
+  <a href="https://lifechemicals.com/"><img src="https://img.shields.io/badge/Life_Chemicals-Research-555?style=flat-square" alt="Life Chemicals"></a>
+</p>
+
+---
+
+## Research background
+
+**Supramolecular chemistry · Nanomedicine · Molecular & computational modelling · Scientific visualisation · NMR · X-ray structural analysis · Nanoparticle characterisation**
+
+My research experience connects molecular-level chemistry with computational and experimental approaches, and strongly influences how I think about scientific problem solving and educational technology.
+
+---
+
+## Languages
+
+`Ukrainian` · `Russian` · `English` · `German` · `French` · `Spanish`
 
 ---
 
@@ -97,17 +128,27 @@ The Python implementation was created by my former chemistry student **[Andrew Y
 
 ## Tools & technologies
 
-**AI & LLM workflows**  
-`OpenAI` · `OpenRouter` · `Gemini` · `Prompt Engineering` · `Markdown Protocols` · `Human-in-the-loop AI`
+### Working with
 
-**Development & automation**  
-`Python` · `REST APIs` · `Telegram API` · `Playwright` · `GitHub Actions` · `Make` · `n8n`
+`OpenAI` · `Markdown protocols` · `Prompt design` · `Miro` · `GoodNotes` · `Calendly` · `GitHub` · `Make` · `Google Workspace`
 
-**Data & infrastructure**  
-`Supabase` · `PostgreSQL` · `SQLite` · `GitHub`
+### Building with
 
-**Education & productivity**  
-`Miro` · `GoodNotes` · `Calendly` · `Zoom` · `Google Workspace`
+`Python` · `REST APIs` · `Telegram API` · `Supabase` · `PostgreSQL` · `SQLite` · `Playwright` · `GitHub Actions` · `OpenRouter` · `Gemini`
+
+### Exploring
+
+`n8n` · `Local LLMs` · `Agent orchestration` · `Multi-model workflows` · `Human-in-the-loop AI` · `Personal knowledge systems`
+
+---
+
+## Open to
+
+I am open to **collaborations, projects and professional opportunities** in:
+
+`EdTech` · `AI-assisted education` · `Applied AI` · `Workflow automation` · `Scientific education` · `Research automation` · `AI-enabled knowledge work`
+
+I am particularly interested in opportunities where **domain expertise and practical AI systems** can reinforce each other.
 
 ---
 
@@ -124,6 +165,8 @@ That combination — **science + education + applied AI** — is the main direct
 - 🌐 **Website:** [vadymshved.github.io](https://vadymshved.github.io/)
 - 💼 **LinkedIn:** [Vadym Shved](https://ch.linkedin.com/in/shvedvadym)
 - 💻 **GitHub:** [@vadymshved](https://github.com/vadymshved)
+
+> A public, privacy-safe CV link will be added here once a redacted portfolio version is available.
 
 ---
 
