@@ -55,6 +55,11 @@ I focus on practical AI systems for **education, research and knowledge-intensiv
 **Exploring**  
 `AI evaluation` · `n8n` · `Local LLMs` · `Agent orchestration` · `Scientific computing` · `Human-in-the-loop AI`
 
+### Open to
+
+**Open to roles & collaborations in:**  
+`Applied AI` · `EdTech` · `AI Evaluation` · `Workflow Automation` · `Scientific / Research Technology`
+
 ---
 
 ## Professional background
@@ -78,16 +83,6 @@ I focus on practical AI systems for **education, research and knowledge-intensiv
 
 **Working languages:** English · German · Ukrainian · Russian  
 **Additional languages:** Polish · Spanish · French
-
----
-
-## Open to
-
-Open to collaborations and opportunities in:
-
-`Applied AI` · `AI Evaluation` · `EdTech` · `Workflow Automation` · `Scientific / Research Technology`
-
-Particularly where **scientific or educational domain expertise** adds value.
 
 ---
 
