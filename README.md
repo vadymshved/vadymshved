@@ -22,7 +22,7 @@
 
 I am a **chemist and educator** building a stronger technical layer around my scientific and teaching background.
 
-I am interested in practical AI systems that solve real problems in **education, research, document processing, information monitoring and knowledge-intensive workflows** — not AI for its own sake.
+I focus on practical AI systems for **education, research and knowledge-intensive workflows** — using technology to solve concrete problems rather than AI for its own sake.
 
 > **Domain problem → structured workflow → automation → AI where useful → validated output**
 
@@ -32,63 +32,62 @@ I am interested in practical AI systems that solve real problems in **education,
 
 | Work | What it demonstrates | Status |
 | --- | --- | --- |
-| **[Applied AI & Scientific Computing Roadmap](https://github.com/vadymshved/applied-ai-development-roadmap)** | Structured transition into Python, AI evaluation, scientific computing, APIs and automation | 🔵 Active |
+| **[Applied AI & Scientific Computing Roadmap](https://github.com/vadymshved/applied-ai-development-roadmap)** | Python, AI evaluation, scientific computing, APIs and automation learning path | 🔵 Active |
 | **[Molecular Rotation Automation](https://github.com/andrewyazura/rotate-molecules)** | Chemistry problem translated into a computational workflow; Python implementation by [Andrew Yazura](https://github.com/andrewyazura) | ✅ Collaboration |
-| **[Personal Website](https://vadymshved.github.io/)** | Digital teaching profile, multilingual content and online tutoring workflow | ✅ Live |
+| **[Personal Website](https://vadymshved.github.io/)** | Multilingual digital teaching profile and online tutoring workflow | ✅ Live |
 
-### Portfolio directions in development
+### Building next
 
-`AI Evaluation for Chemistry` · `Scientific Literature & Research Agents` · `Chemistry Assessment Analysis` · `Telegram AI Assistants` · `Tutor Workflow Automation` · `Scientific Data Tools`
+`Chemistry LLM Evaluation` · `Scientific Data Dashboard` · `AI Research Telegram Bot`
+
+📍 **[View the full Applied AI & Scientific Computing roadmap →](https://github.com/vadymshved/applied-ai-development-roadmap)**
+
+---
+
+## Tools & stack
+
+**Working with**  
+`OpenAI` · `GitHub` · `Make` · `Markdown protocols` · `Prompt/workflow design` · `Miro` · `Calendly`
+
+**Building with**  
+`Python` · `REST APIs` · `Telegram API` · `Supabase` · `PostgreSQL` · `Playwright` · `GitHub Actions` · `OpenRouter`
+
+**Exploring**  
+`AI evaluation` · `n8n` · `Local LLMs` · `Agent orchestration` · `Scientific computing` · `Human-in-the-loop AI`
 
 ---
 
 ## Professional background
 
-- **Chemistry Educator & International Tutor** — school, Gymnasium, IB Diploma and non-major university chemistry.
-- **Teacher in Swiss secondary schools & Gymnasien**, including **[Gymnasium Neufeld](https://gymneufeld.ch/)**.
-- **Chemistry / STEM Teacher — [#brobots Private Engineering School](https://brobots.org.ua/)**, Kyiv.
-- **Nanomedicine Research — [École Centrale de Lyon](https://www.ec-lyon.fr/) / [Institut Lumière Matière](https://ilm.univ-lyon1.fr/) / [CNRS](https://www.cnrs.fr/en)**.
-- **Supramolecular Chemistry Research — [Taras Shevchenko National University of Kyiv, IHT](https://iht.knu.ua/en/) / [Life Chemicals](https://lifechemicals.com/)**.
+- 🧪 **Chemistry Educator & International Tutor** — school, Gymnasium, IB Diploma and university chemistry.
+- 🇨🇭 **Teacher in Swiss secondary schools & Gymnasien**, including **[Gymnasium Neufeld](https://gymneufeld.ch/)**.
+- 🎓 **Chemistry / STEM Teacher — [#brobots Private Engineering School](https://brobots.org.ua/)**, Kyiv.
+- 🔬 **Nanomedicine Research — [École Centrale de Lyon](https://www.ec-lyon.fr/) / [Institut Lumière Matière](https://ilm.univ-lyon1.fr/) / [CNRS](https://www.cnrs.fr/en)**.
+- ⚗️ **Supramolecular Chemistry Research — [Taras Shevchenko National University of Kyiv, IHT](https://iht.knu.ua/en/) / [Life Chemicals](https://lifechemicals.com/)**.
 
 ---
 
 ## Education & research
 
-- 🎓 **[PHBern](https://www.phbern.ch/studium/sekundarstufe-ii/studienuebersicht/monofachdiplom-fuer-maturitaetsschulen-mit-berufspaedagogischer-qualifikation)** — Teaching Diploma, Chemistry — *in progress*
-- 🎓 **[École Centrale de Lyon](https://www.ec-lyon.fr/formation/international-master-nanoscale-engineering)** — MSc, Nanoscale Engineering
-- 🎓 **[Taras Shevchenko National University of Kyiv — IHT](https://iht.knu.ua/en/)** — MSc, Applied Physics & Nanomaterials
-- 🎓 **[Taras Shevchenko National University of Kyiv — IHT](https://iht.knu.ua/en/)** — BSc, Chemistry
+🎓 **[PHBern](https://www.phbern.ch/studium/sekundarstufe-ii/studienuebersicht/monofachdiplom-fuer-maturitaetsschulen-mit-berufspaedagogischer-qualifikation)** — Chemistry Teacher Education — *in progress*  
+🎓 **[École Centrale de Lyon](https://www.ec-lyon.fr/formation/international-master-nanoscale-engineering)** — MSc, Nanoscale Engineering  
+🎓 **[Taras Shevchenko National University of Kyiv — IHT](https://iht.knu.ua/en/)** — MSc, Applied Physics & Nanomaterials  
+🎓 **[Taras Shevchenko National University of Kyiv — IHT](https://iht.knu.ua/en/)** — BSc, Chemistry
 
-**Research:** supramolecular chemistry · nanomedicine · molecular/computational modelling · scientific visualisation · NMR · X-ray structural analysis · nanoparticle characterisation
+**Research background:** supramolecular chemistry · nanomedicine · molecular modelling · scientific visualisation
 
----
-
-## Technical direction
-
-**Working with**  
-`OpenAI` · `Markdown protocols` · `Prompt/workflow design` · `GitHub` · `Make` · `Miro` · `Calendly` · `Google Workspace`
-
-**Building with**  
-`Python` · `REST APIs` · `Telegram API` · `Supabase` · `PostgreSQL` · `SQLite` · `Playwright` · `GitHub Actions` · `OpenRouter` · `Gemini`
-
-**Exploring**  
-`n8n` · `Local LLMs` · `AI evaluation` · `Agent orchestration` · `Scientific computing` · `Human-in-the-loop AI`
-
----
-
-## Languages
-
-`Ukrainian` · `Russian` · `English` · `German` · `French` · `Spanish`
+**Working languages:** English · German · Ukrainian · Russian  
+**Additional languages:** Polish · Spanish · French
 
 ---
 
 ## Open to
 
-I am interested in **collaborations and professional opportunities** around:
+Open to collaborations and opportunities in:
 
-`Applied AI` · `AI Evaluation` · `EdTech` · `Workflow Automation` · `Scientific / Research Technology` · `AI-enabled Knowledge Work`
+`Applied AI` · `AI Evaluation` · `EdTech` · `Workflow Automation` · `Scientific / Research Technology`
 
-Especially where **scientific or educational domain expertise** is useful rather than incidental.
+Particularly where **scientific or educational domain expertise** adds value.
 
 ---
 
