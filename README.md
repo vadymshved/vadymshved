@@ -55,7 +55,9 @@ I focus on practical AI systems for **education, research and knowledge-intensiv
 **Exploring**  
 `AI evaluation` · `n8n` · `Local LLMs` · `Agent orchestration` · `Scientific computing` · `Human-in-the-loop AI`
 
-### Open to
+---
+
+## Open to
 
 **Open to roles & collaborations in:**  
 `Applied AI` · `EdTech` · `AI Evaluation` · `Workflow Automation` · `Scientific / Research Technology`
