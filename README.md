@@ -21,7 +21,7 @@ I am developing a structured technical layer around my scientific and educationa
 
 **Current path:** `Python & Data → LLM Evaluation → AI Applications & APIs → Automation & Infrastructure → Flagship Project`
 
-📍 **[View my Applied AI & Scientific Computing Development Roadmap →](ROADMAP.md)**
+📍 **[View my Applied AI & Scientific Computing Development Roadmap →](https://github.com/vadymshved/applied-ai-development-roadmap)**
 
 ---
 
