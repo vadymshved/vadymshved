@@ -15,6 +15,14 @@
   🎓 <strong>PHBern Chemistry Teacher Education</strong> · 🤖 <strong>Building Applied AI / EdTech workflows</strong> · 🧪 <strong>Chemistry & Nanoscience background</strong>
 </p>
 
+### 🚀 2026–2027 Development Roadmap
+
+I am developing a structured technical layer around my scientific and educational background, with a focus on **Applied AI, AI evaluation, scientific computing, EdTech and workflow automation**.
+
+**Current path:** `Python & Data → LLM Evaluation → AI Applications & APIs → Automation & Infrastructure → Flagship Project`
+
+📍 **[View my Applied AI & Scientific Computing Development Roadmap →](ROADMAP.md)**
+
 ---
 
 ## About me
